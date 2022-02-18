@@ -1,6 +1,11 @@
 # 42_philosophers
 
 ## Project 07: Creating threads and making them survive as long as possible
+</br>
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/Philosophers)](https://github.com/JaeSeoKim/badge42)
+</br>
+</br>
 
 Picture this: a round table around which philosophers are sitting, hoping to eat in order to survive as long as possible, if not forever.
 A philosopher has one and only one fork but needs two to eat from the plate in the middle of the table. A philosopher has therefore to borrow the fork from the philosopher sitting next to him or her, in order to have two and finally eat.
