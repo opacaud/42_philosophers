@@ -1,6 +1,6 @@
-# 42_philosophers
+# Project 07: 42_philosophers
 
-## Project 07: Creating threads and making them survive as long as possible
+## Creating threads and making them survive as long as possible
 </br>
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/Philosophers)](https://github.com/JaeSeoKim/badge42)
