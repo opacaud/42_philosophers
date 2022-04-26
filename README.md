@@ -3,7 +3,7 @@
 ## Creating threads and making them survive as long as possible
 </br>
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/opacaud/Philosophers)](https://github.com/JaeSeoKim/badge42)
+[![opacaud's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2g6sk3a013609l6l237136q/project/2406147)](https://github.com/JaeSeoKim/badge42)
 </br>
 </br>
 
